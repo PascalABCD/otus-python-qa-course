@@ -1,9 +1,9 @@
 import pytest
 
-from src.Circle import Circle
-from src.Triangle import Triangle
-from src.Square import Square
-from src.Rectangle import Rectangle
+from homework2.src.Circle import Circle
+from homework2.src.Triangle import Triangle
+from homework2.src.Square import Square
+from homework2.src.Rectangle import Rectangle
 
 
 @pytest.fixture()

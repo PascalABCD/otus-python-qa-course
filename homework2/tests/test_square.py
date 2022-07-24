@@ -1,6 +1,6 @@
 import pytest
 
-from src.Square import Square
+from homework2.src.Square import Square
 
 
 class TestSquare:

@@ -1,5 +1,5 @@
 import math
-from src.Figure import Figure
+from homework2.src.Figure import Figure
 
 
 class Square(Figure):
